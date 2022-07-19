@@ -23,3 +23,8 @@ alias meggf="~/scripts/meg_gf-patterns.sh"
 alias webgf="~/scripts/web-app_gf.sh"
 alias subminer="~/scripts/subminer.sh"
 alias urlscraper="~/scripts/url_scraper.sh"
+alias ghdump="~/scripts/ghdump.sh"
+# save time getting the number of lines from a file
+alias wcl="wc -l"
+# count how many files/folders are in a directory
+alias ls1="ls -1 | wc -l"
